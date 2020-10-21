@@ -12,5 +12,5 @@ Courses
 * [Fundamentals of Reinforcement Learning](https://github.com/msankar/reinforcement_learning/tree/master/fundamentals_of_reinforcement_learning)
 * [Sample Based Learning Methods](https://github.com/msankar/reinforcement_learning/tree/master/sample_based_learning_methods)
 * [Prediction and Control with Function Approximation](https://github.com/msankar/reinforcement_learning/tree/master/prediction_and_control_with_fn_approx)
-* [Complete Reinforcement Learning Capstone](https://github.com/msankar/reinforcement_learning/tree/master/complete_reinforcement_leanring_capstone)
+* [Complete Reinforcement Learning Capstone](https://github.com/msankar/reinforcement_learning/tree/master/complete_reinforcement_learning_capstone)
 
