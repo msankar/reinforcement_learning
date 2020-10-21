@@ -1,4 +1,4 @@
-# reinforcement_learning
+# Reinforcement Learning
 
 Repo for Reinforcement Learning Specialization. Explored the power of adaptive learning systems and artificial intelligence (AI).Harnessing the full potential of artificial intelligence requires adaptive learning systems. Learnt how Reinforcement Learning (RL) solutions help solve real-world problems through trial-and-error interaction by implementing a complete RL solution from beginning to end.
 
@@ -14,3 +14,5 @@ Courses
 * [Prediction and Control with Function Approximation](https://github.com/msankar/reinforcement_learning/tree/master/prediction_and_control_with_fn_approx)
 * [Complete Reinforcement Learning Capstone](https://github.com/msankar/reinforcement_learning/tree/master/complete_reinforcement_learning_capstone)
 
+TextBook
+* [Reinforcement Learning - An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
