@@ -2,10 +2,10 @@
 
 Fundamentals of Reinforcement Learning: Learning Objectives
 
-Module 00: Welcome to the Course
+### Module 00: Welcome to the Course
 Understand the prerequisites, goals and roadmap for the course.
 
-Module 01: The K-Armed Bandit Problem
+### Module 01: The K-Armed Bandit Problem
 Lesson 1: The K-Armed Bandit Problem
 Define reward
 Understand the temporal nature of the bandit problem
@@ -28,13 +28,12 @@ Explain the criticisms of optimistic initial values
 Describe the upper confidence bound action selection method
 Define optimism in the face of uncertainty
 
-Module 02: Markov Decision Processes
+### Module 02: Markov Decision Processes
 Lesson 1: Introduction to Markov Decision Processes
 Understand Markov Decision Processes, or MDPs
 Describe how the dynamics of an MDP are defined
 Understand the graphical representation of a Markov Decision Process
-Explain how many diverse processes can be written in terms of the MDP
-framework
+Explain how many diverse processes can be written in terms of the MDP framework
 Lesson 2: Goal of Reinforcement Learning
 Describe how rewards relate to the goal of an agent
 Understand episodes and identify episodic tasks
@@ -43,7 +42,7 @@ Formulate returns for continuing tasks using discounting
 Describe how returns at successive time steps are related to each other
 Understand when to formalize a task as episodic or continuing
 
-Module 03: Values Functions & Bellman Equations
+### Module 03: Values Functions & Bellman Equations
 Lesson 1: Policies and Value Functions
 Recognize that a policy is a distribution over actions for each possible state
 Describe the similarities and differences between stochastic and deterministic policies
@@ -68,7 +67,7 @@ introduced Bellman equations
 Understand the connection between the optimal value function and optimal policies
 Verify the optimal value function for given MDPs
 
-Module 04: Dynamic Programming
+### Module 04: Dynamic Programming
 Lesson 1: Policy Evaluation (Prediction)
 Understand the distinction between policy evaluation and control
 Explain the setting in which dynamic programming can be applied, as well as its limitations
